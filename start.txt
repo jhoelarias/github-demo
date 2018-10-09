@@ -1,3 +1,4 @@
 Test Git Quick Start 
 cambiando de nuevo el archivo
 Cuarto cambio con un amend para modificar el commit anterior
+Cambio en la master para hacer rebase
